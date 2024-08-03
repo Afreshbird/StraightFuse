@@ -1,2 +1,2 @@
 # StraightFuse
-We will publish the code after the paper is accepted.
+We will publish the code and test data after the paper is accepted.
